@@ -66,7 +66,8 @@ https://xmas-hack.ru
 #### Здоровье каталога
 ![](media/image3.png)
 
-Презентация проекта: [GDocs](https://docs.google.com/spreadsheets/d/1Pw9Y7kyLDNNiFPy-4QR16IG3eYHnIljKwIokm4qwnn4/edit#gid=0)
-Пример дашборда: [GDocs](https://docs.google.com/spreadsheets/d/1Pw9Y7kyLDNNiFPy-4QR16IG3eYHnIljKwIokm4qwnn4/edit#gid=0)
-Черновик проекта: [Miro](https://miro.com/app/board/uXjVP5fL4as=/)
+#### Материалы проекта:
+- Презентация проекта: [GDocs](https://docs.google.com/spreadsheets/d/1Pw9Y7kyLDNNiFPy-4QR16IG3eYHnIljKwIokm4qwnn4/edit#gid=0)
+- Пример дашборда: [GDocs](https://docs.google.com/spreadsheets/d/1Pw9Y7kyLDNNiFPy-4QR16IG3eYHnIljKwIokm4qwnn4/edit#gid=0)
+- Рабочее пространство проекта: [Miro](https://miro.com/app/board/uXjVP5fL4as=/)
 
