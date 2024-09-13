@@ -73,4 +73,4 @@ https://xmas-hack.ru
 
 
 ***
-![certificate](media/certificate.jpg)
+![certificate](media/certificate.png)
