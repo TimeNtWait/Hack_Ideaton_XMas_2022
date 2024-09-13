@@ -71,3 +71,6 @@ https://xmas-hack.ru
 - Пример дашборда: [GDocs](https://docs.google.com/spreadsheets/d/1Pw9Y7kyLDNNiFPy-4QR16IG3eYHnIljKwIokm4qwnn4/edit#gid=0)
 - Рабочее пространство проекта: [Miro](https://miro.com/app/board/uXjVP5fL4as=/)
 
+
+***
+![certificate](media/certificate.jpg)
